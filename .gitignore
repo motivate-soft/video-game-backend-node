@@ -1,0 +1,6 @@
+.DS_Store
+.idea
+logs
+node_modules
+logfile.log
+uncaughtExceptions.log
