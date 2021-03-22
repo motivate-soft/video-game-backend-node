@@ -10,6 +10,9 @@ const Game = mongoose.model('Games', new mongoose.Schema({
     minlength: 5,
     maxlength: 255
   },
+  image: {
+    type:String
+  },
   genre: { 
     type: genreSchema,  
     required: true
