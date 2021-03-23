@@ -77,7 +77,7 @@ router.delete("/:id", async (req, res) => {
   res.send(game);
 });
 
-router.get("/:id", validateObjectId, async (req, res) => {
+router.get("/detail/:id", validateObjectId, async (req, res) => {
   const game = await Game.findById(req.params.id).select("-__v");
 
   if (!game)
