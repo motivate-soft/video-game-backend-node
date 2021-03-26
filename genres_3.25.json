@@ -1,0 +1,127 @@
+[{
+  "_id": {
+    "$oid": "605cb60c0838d544acf2e12d"
+  },
+  "name": "Yoga",
+  "type": "Fitness"
+},{
+  "_id": {
+    "$oid": "605cb60c0838d544acf2e12e"
+  },
+  "name": "Boxing",
+  "type": "Fitness"
+},{
+  "_id": {
+    "$oid": "605cb60c0838d544acf2e12f"
+  },
+  "name": "Samba",
+  "type": "Fitness"
+},{
+  "_id": {
+    "$oid": "605cb60c0838d544acf2e130"
+  },
+  "name": "Slimming",
+  "type": "Fitness"
+},{
+  "_id": {
+    "$oid": "605cb60c0838d544acf2e131"
+  },
+  "name": "Pilates",
+  "type": "Fitness"
+},{
+  "_id": {
+    "$oid": "605cb60c0838d544acf2e132"
+  },
+  "name": "Balance",
+  "type": "Fitness"
+},{
+  "_id": {
+    "$oid": "605cb60c0838d544acf2e133"
+  },
+  "name": "Elastic",
+  "type": "Fitness"
+},{
+  "_id": {
+    "$oid": "605cb60c0838d544acf2e134"
+  },
+  "name": "Sport",
+  "type": "Fitness"
+},{
+  "_id": {
+    "$oid": "605cb60c0838d544acf2e135"
+  },
+  "name": "Agile",
+  "type": "Game"
+},{
+  "_id": {
+    "$oid": "605cb60c0838d544acf2e136"
+  },
+  "name": "Adventure",
+  "type": "Game"
+},{
+  "_id": {
+    "$oid": "605cb60c0838d544acf2e137"
+  },
+  "name": "Casual",
+  "type": "Game"
+},{
+  "_id": {
+    "$oid": "605cb60c0838d544acf2e138"
+  },
+  "name": "Survive",
+  "type": "Game"
+},{
+  "_id": {
+    "$oid": "605cb60c0838d544acf2e139"
+  },
+  "name": "Fighting",
+  "type": "Game"
+},{
+  "_id": {
+    "$oid": "605cb60c0838d544acf2e13a"
+  },
+  "name": "Cosplay",
+  "type": "Game"
+},{
+  "_id": {
+    "$oid": "605cb60c0838d544acf2e13b"
+  },
+  "name": "Park",
+  "type": "Social"
+},{
+  "_id": {
+    "$oid": "605cb60c0838d544acf2e13c"
+  },
+  "name": "Beach",
+  "type": "Social"
+},{
+  "_id": {
+    "$oid": "605cb60c0838d544acf2e13d"
+  },
+  "name": "Forest",
+  "type": "Social"
+},{
+  "_id": {
+    "$oid": "605cb60c0838d544acf2e13e"
+  },
+  "name": "Islands",
+  "type": "Social"
+},{
+  "_id": {
+    "$oid": "605cb60c0838d544acf2e13f"
+  },
+  "name": "Zoo",
+  "type": "Social"
+},{
+  "_id": {
+    "$oid": "605cb60c0838d544acf2e140"
+  },
+  "name": "Private",
+  "type": "Social"
+},{
+  "_id": {
+    "$oid": "605cb60c0838d544acf2e141"
+  },
+  "name": "Space",
+  "type": "Social"
+}]

@@ -1,0 +1,1163 @@
+[{
+  "_id": {
+    "$oid": "605cbc5b0838d544acf2e142"
+  },
+  "title": "HexGL",
+  "details": "HexGL is a high-speed Wipeout clone that serves as a great example of what HTML5, Javascript, and WebGL technologies offer independent developers.",
+  "source": {
+    "cmd": "games/03_32/g01/script",
+    "link": "games/03_32/g01/public/index.html"
+  },
+  "image": [
+    "images/03_21/01_01.png",
+    "images/03_21/01_02.png",
+    "images/03_21/01_03.webp"
+  ],
+  "videos": [
+    "videos/03_21/01_01.mp4"
+  ],
+  "controllers": [
+    {
+      "title": "Balance control mode",
+      "src": "images/03_21/hexgl_control_1.gif",
+      "type": "image",
+      "content": "Punch Mode - Crush the stars. <br> Just sit back and enjoy the ride. "
+    },
+    {
+      "title": "Joystick control mode",
+      "src": "images/03_21/xr-standard-mapping.svg",
+      "type": "image",
+      "content": "Watch the beatmap within your browser. <br> Surf and slice along the musical road."
+    }
+  ],
+  "about": [
+    {
+      "title": "About this game",
+      "content": "You'll recognize the inspiration for HexGL just moments after launching the game: this 'futuristic racer' is one of the more obvious clones of Sony's Wipeout series we've seen. But considering it's the work of a single computer science student, we're impressed all the same. Thibaut Despoulain created the title using HTML5, JavaScript, and WebGL technologies, and it serves as an excellent showcase for both the graphical efficiency and scalability of those standards. <br><br> You'll start by choosing between three quality settings depending on the capabilities of whatever hardware you're playing on, with a goal of getting things running at 60fps — that's what makes lends Wipeout its enthralling sense of speeds, after all. For the 2010 MacBook Pro we tested it on, this meant dialing things down to the 'mobile' setting, which unfortunately eliminates some of HexGL's nicer visual flair. From there you'd normally pick your track and desired craft, but there's only one of each available during the game's early beta period. There's no multiplayer here, or even sound for that matter (Despoulain says the latter will be coming soon) but assuming you can get racing smoothly, it makes for a fine way to kill 20 minutes. <br>"
+    },
+    {
+      "title": "About the developer",
+      "content": "Name: Thibaut Despoulain"
+    },
+    {
+      "title": " More information links",
+      "content": "Online play :https://hexgl.bkcore.com/play/ <br> Github code : https://github.com/BKcore/HexGL/  <br> Read more: https://www.theverge.com/2012/9/1/3285326/play-this-hexgl-wipeout-clone-html5"
+    }
+  ],
+  "reviews": [
+    "Great Game, easy to play, hard to master. Fun from the start. You can notice it takes some inspiration in the gameplay from Exanima. <br> Pros:<br>-Easy to understand Interface <br>-Simple enough controls<br> -Traps spice up the maps<br> -Character customization which impact its stats<br> Cons: <br> -Its hard to figure out the controls, as there is no tutorial implemented, only a small briefing.<br> -Its hard to build momentum to do heavier attacks. <br> -Some minor bugs to be expected at this stage of development. <br>",
+    "review2"
+  ],
+  "releaseDate": "2021-09-01",
+  "platform": "Browser, WebGL",
+  "downloadSize": "30 MB",
+  "numberOfPlayer": "1",
+  "playtime": "15-30 min",
+  "equipment": "iPuppet Device",
+  "loves": 5,
+  "likes": 10,
+  "dislikes": 4,
+  "downloads": 70,
+  "genre": [
+    {
+      "_id": {
+        "$oid": "605cb60c0838d544acf2e135"
+      },
+      "title": "Agile",
+      "type": "Game"
+    },
+    {
+      "_id": {
+        "$oid": "605cb60c0838d544acf2e132"
+      },
+      "title": "Balance",
+      "type": "Fitness"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "605cbc5b0838d544acf2e143"
+  },
+  "title": "Moon Rider",
+  "details": "Surf the musical road among the moon, stars, and northern lights. <br> Moon Rider is a free and open source VR music visualization and rhythm game that is playable completely from the web.",
+  "source": {
+    "cmd": "games/03_32/g02/script",
+    "link": "games/03_32/g02/public/index.html"
+  },
+  "image": [
+    "images/03_21/02_01.jpeg",
+    "images/03_21/02_02.jpg",
+    "images/03_21/02_03.gif",
+    "images/03_21/02_04.png"
+  ],
+  "videos": [
+    "videos/03_21/02_01.mp4",
+    "videos/03_21/02_02.mp4"
+  ],
+  "controllers": [
+    {
+      "title": "VR controller",
+      "src": "images/03_21/touch-1.webp",
+      "type": "image",
+      "content": "Punch Mode - Crush the stars. <br> Just sit back and enjoy the ride."
+    },
+    {
+      "title": "Classic gamepad",
+      "src": "images/03_21/moonrider_control_1.jpeg",
+      "type": "image",
+      "content": "Watch the beatmap within your browser. <br> Surf and slice along the musical road."
+    }
+  ],
+  "about": [
+    {
+      "title": "About this game",
+      "content": "The gameplay consists of surfing a musical road among stars, tunnels, and the northern lights. The game / site has a variety of modes such as Ride Mode and Punch Mode. The experience, like the Beatsaver Viewer, is powered by the public community Beatsaver data set that features something like 15,000 songs now? Really an amazing achievement! <br> You can open Moon Rider in any browser (e.g., Firefox, Chrome) right now by heading over to the URL https://moonrider.xyz. Even on a smartphone! (Although iOS currently won’t play the song format until we can merge my code patch into Beatsaver). <br>If you have a VR headset, you can dive in the upcoming Oculus Quest via Oculus Browser. Or on a Rift or Vive via Supermedum or Firefox on your desktop. If you have a Daydream or Oculus Go, that also works for Ride Mode or Viewer Mode. It pretty much works anywhere without installing anything. The smoothest way with the best performance is to install our Supermedium browser through Steam or Oculus, and it’ll be featured there."
+    },
+    {
+      "title": "About the developer",
+      "content": "A-Frame developer team"
+    },
+    {
+      "title": " More information links",
+      "content": "Online play: https://moonrider.xyz/ <br> Github code: https://github.com/supermedium/moonrider/  <br> Read more: https://bsaber.com/moonrider/"
+    }
+  ],
+  "reviews": [
+    "Great Game, easy to play, hard to master. Fun from the start. You can notice it takes some inspiration in the gameplay from Exanima. <br> Pros:<br>-Easy to understand Interface <br>-Simple enough controls<br> -Traps spice up the maps<br> -Character customization which impact its stats<br> Cons: <br> -Its hard to figure out the controls, as there is no tutorial implemented, only a small briefing.<br> -Its hard to build momentum to do heavier attacks. <br> -Some minor bugs to be expected at this stage of development. <br>",
+    "review2"
+  ],
+  "releaseDate": "2021-04-01",
+  "platform": "Browser, WebGL",
+  "downloadSize": "50 MB",
+  "numberOfPlayer": "1",
+  "playtime": "15-45 min",
+  "equipment": "iPuppet Device",
+  "loves": 5,
+  "likes": 100,
+  "dislikes": 4,
+  "downloads": 50,
+  "genre": [
+    {
+      "_id": {
+        "$oid": "605cb60c0838d544acf2e139"
+      },
+      "title": "Fighting",
+      "type": "Game"
+    },
+    {
+      "_id": {
+        "$oid": "605cb60c0838d544acf2e12e"
+      },
+      "title": "Boxing",
+      "type": "Fitness"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "605cbc5b0838d544acf2e144"
+  },
+  "title": "Goal Keeper",
+  "details": "Upper body exercies, stop ball with your hands",
+  "source": {
+    "cmd": "games/03_32/g12/script",
+    "link": "games/03_32/g12/public/index.html"
+  },
+  "image": [
+    "images/03_21/12_01.png",
+    "images/03_21/12_02.png"
+  ],
+  "videos": [
+    "videos/03_21/12_01.mp4"
+  ],
+  "controllers": [
+    {
+      "title": "Balance control mode",
+      "src": "images/03_21/hexgl_control_1.gif",
+      "type": "image",
+      "content": "Just sit back and enjoy the game. "
+    }
+  ],
+  "about": [
+    {
+      "title": "About this game",
+      "content": "Under construction"
+    },
+    {
+      "title": "About the developer",
+      "content": "iPuppet developer team"
+    }
+  ],
+  "reviews": [
+    "review1",
+    "review2"
+  ],
+  "releaseDate": "2021-03-01",
+  "platform": "Windows, PC",
+  "downloadSize": "50 MB",
+  "numberOfPlayer": "1",
+  "playtime": "15-30 min",
+  "equipment": "iPuppet Device",
+  "loves": 5,
+  "likes": 10,
+  "dislikes": 4,
+  "downloads": 20,
+  "genre": [
+    {
+      "_id": {
+        "$oid": "605cb60c0838d544acf2e134"
+      },
+      "title": "Sport",
+      "type": "Fitness"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "605cbc5b0838d544acf2e145"
+  },
+  "title": "Horse Ride",
+  "details": "Hupper body exercies, ride horse with ipuppet elastics",
+  "source": {
+    "cmd": "games/03_32/g14/script",
+    "link": "games/03_32/g14/public/index.html"
+  },
+  "image": [
+    "images/03_21/14_01.png",
+    "images/03_21/14_02.png",
+    "images/03_21/14_03.png"
+  ],
+  "videos": [
+    "videos/03_21/14_01.mp4"
+  ],
+  "controllers": [
+    {
+      "title": "Balance control mode",
+      "src": "images/03_21/hexgl_control_1.gif",
+      "type": "image",
+      "content": "Just sit back and enjoy the ride. "
+    }
+  ],
+  "about": [
+    {
+      "title": "About this game",
+      "content": "Under construction"
+    },
+    {
+      "title": "About the developer",
+      "content": "iPuppet developer team"
+    }
+  ],
+  "reviews": [
+    "review1",
+    "review2"
+  ],
+  "releaseDate": "2021-03-01",
+  "platform": "Windows, PC",
+  "downloadSize": "50 MB",
+  "numberOfPlayer": "1",
+  "playtime": "15-30 min",
+  "equipment": "iPuppet Device",
+  "loves": 5,
+  "likes": 10,
+  "dislikes": 4,
+  "downloads": 20,
+  "genre": [
+    {
+      "_id": {
+        "$oid": "605cb60c0838d544acf2e134"
+      },
+      "title": "Sport",
+      "type": "Fitness"
+    },
+    {
+      "_id": {
+        "$oid": "605cb60c0838d544acf2e136"
+      },
+      "title": "Adventure",
+      "type": "Game"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "605cbc5b0838d544acf2e146"
+  },
+  "title": "Box Catch",
+  "details": "Upper body exercies",
+  "source": {
+    "cmd": "games/03_32/g11/script",
+    "link": "games/03_32/g11/public/index.html"
+  },
+  "image": [
+    "images/03_21/11_01.png",
+    "images/03_21/11_02.png"
+  ],
+  "videos": [
+    "videos/03_21/11_01.mp4"
+  ],
+  "controllers": [
+    {
+      "title": "Balance control mode",
+      "src": "images/03_21/hexgl_control_1.gif",
+      "type": "image",
+      "content": "Just sit back and enjoy the game. "
+    }
+  ],
+  "about": [
+    {
+      "title": "About this game",
+      "content": "Under construction"
+    },
+    {
+      "title": "About the developer",
+      "content": "iPuppet developer team"
+    }
+  ],
+  "reviews": [
+    "review1",
+    "review2"
+  ],
+  "releaseDate": "2021-03-01",
+  "platform": "Windows, PC",
+  "downloadSize": "50 MB",
+  "numberOfPlayer": "1",
+  "playtime": "15-30 min",
+  "equipment": "iPuppet Device",
+  "loves": 5,
+  "likes": 10,
+  "dislikes": 4,
+  "downloads": 20,
+  "genre": [
+    {
+      "_id": {
+        "$oid": "605cb60c0838d544acf2e133"
+      },
+      "title": "Elastic",
+      "type": "Fitness"
+    },
+    {
+      "_id": {
+        "$oid": "605cb60c0838d544acf2e135"
+      },
+      "title": "Agile",
+      "type": "Game"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "605cbc5b0838d544acf2e147"
+  },
+  "title": "Elastic Challenge",
+  "details": "Elastic exercies, pull the elastic to reach the target",
+  "source": {
+    "cmd": "games/03_32/g10/script",
+    "link": "games/03_32/g10/public/index.html"
+  },
+  "image": [
+    "images/03_21/10_01.png"
+  ],
+  "videos": [
+    "videos/03_21/10_01.mp4"
+  ],
+  "controllers": [
+    {
+      "title": "Balance control mode",
+      "src": "images/03_21/hexgl_control_1.gif",
+      "type": "image",
+      "content": "Just sit back and enjoy the game. "
+    }
+  ],
+  "about": [
+    {
+      "title": "About this game",
+      "content": "Under construction"
+    },
+    {
+      "title": "About the developer",
+      "content": "iPuppet developer team"
+    }
+  ],
+  "reviews": [
+    "review1",
+    "review2"
+  ],
+  "releaseDate": "2021-03-01",
+  "platform": "Windows, PC",
+  "downloadSize": "50 MB",
+  "numberOfPlayer": "1",
+  "playtime": "15-30 min",
+  "equipment": "iPuppet Device",
+  "loves": 5,
+  "likes": 10,
+  "dislikes": 4,
+  "downloads": 20,
+  "genre": [
+    {
+      "_id": {
+        "$oid": "605cb60c0838d544acf2e133"
+      },
+      "title": "Elastic",
+      "type": "Fitness"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "605cbc5b0838d544acf2e148"
+  },
+  "title": "Zoo Walk",
+  "details": "Walk in forest with animals",
+  "source": {
+    "cmd": "games/03_32/g05/script",
+    "link": "games/03_32/g05/public/index.html"
+  },
+  "image": [
+    "images/03_21/05_01.png",
+    "images/03_21/05_02.png"
+  ],
+  "videos": [
+    "videos/03_21/05_01.mp4"
+  ],
+  "controllers": [
+    {
+      "title": "Balance control mode",
+      "src": "images/03_21/hexgl_control_1.gif",
+      "type": "image",
+      "content": "Just sit back and enjoy the game. "
+    }
+  ],
+  "about": [
+    {
+      "title": "About this game",
+      "content": "Under construction"
+    },
+    {
+      "title": "About the developer",
+      "content": "iPuppet developer team"
+    }
+  ],
+  "reviews": [
+    "review1",
+    "review2"
+  ],
+  "releaseDate": "2021-03-01",
+  "platform": "Browser, WebGL",
+  "downloadSize": "50 MB",
+  "numberOfPlayer": "1 -2",
+  "playtime": "15-30 min",
+  "equipment": "iPuppet Device",
+  "loves": 5,
+  "likes": 10,
+  "dislikes": 4,
+  "downloads": 20,
+  "genre": [
+    {
+      "_id": {
+        "$oid": "605cb60c0838d544acf2e130"
+      },
+      "title": "Slimming",
+      "type": "Fitness"
+    },
+    {
+      "_id": {
+        "$oid": "605cb60c0838d544acf2e13f"
+      },
+      "title": "Zoo",
+      "type": "Social"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "605cbc5b0838d544acf2e149"
+  },
+  "title": "Box Obstacle",
+  "details": "Balance exercices standing on left and right leg",
+  "source": {
+    "cmd": "games/03_32/g04/script",
+    "link": "games/03_32/g04/public/index.html"
+  },
+  "image": [
+    "images/03_21/04_01.png"
+  ],
+  "videos": [
+    "videos/03_21/04_01.mp4"
+  ],
+  "controllers": [
+    {
+      "title": "Balance control mode",
+      "src": "images/03_21/hexgl_control_1.gif",
+      "type": "image",
+      "content": "Just sit back and enjoy the game. "
+    }
+  ],
+  "about": [
+    {
+      "title": "About this game",
+      "content": "Under construction"
+    },
+    {
+      "title": "About the developer",
+      "content": "iPuppet developer team"
+    }
+  ],
+  "reviews": [
+    "review1",
+    "review2"
+  ],
+  "releaseDate": "2021-03-01",
+  "platform": "Browser, WebGL",
+  "downloadSize": "50 MB",
+  "numberOfPlayer": "1",
+  "playtime": "15-30 min",
+  "equipment": "iPuppet Device",
+  "loves": 5,
+  "likes": 10,
+  "dislikes": 4,
+  "downloads": 20,
+  "genre": [
+    {
+      "_id": {
+        "$oid": "605cb60c0838d544acf2e132"
+      },
+      "title": "Balance",
+      "type": "Fitness"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "605cbc5b0838d544acf2e14a"
+  },
+  "title": "Super Saber",
+  "details": "A free and open source clone of Beat Saber that lets you play over 6000 community songs from Beat Saver songs without having to install any mods.",
+  "source": {
+    "cmd": "games/03_32/g03/script",
+    "link": "games/03_32/g03/public/index.html"
+  },
+  "image": [
+    "images/03_21/03_01.png",
+    "images/03_21/03_02.jpg",
+    "images/03_21/03_03.jpg"
+  ],
+  "videos": [
+    "videos/03_21/03_01.mp4",
+    "videos/03_21/03_02.mp4"
+  ],
+  "controllers": [
+    {
+      "title": "VR controller",
+      "src": "images/03_21/touch-1.webp",
+      "type": "image",
+      "content": "Punch Mode - Crush the stars. <br> Just sit back and enjoy the ride."
+    },
+    {
+      "title": "Handle control mode",
+      "src": "images/03_21/supersaber_control_1.png",
+      "type": "image",
+      "content": "Watch the beatmap within your browser. <br> Surf and slice along the musical road."
+    }
+  ],
+  "about": [
+    {
+      "title": "About this game",
+      "content": "We are big fans of Beat Saber and what it has done for VR. As an homage, we built Super Saber with A-Frame and JavaScript to show that the Web is capable of great VR. <br>You can open Moon Rider in any browser (e.g., Firefox, Chrome) right now by heading over to the URL https://moonrider.xyz. Even on a smartphone! (Although iOS currently won’t play the song format until we can merge my code patch into Beatsaver). <br>Super Saber is built with A-Frame (incl. three.js and JavaScript). Also uses aframe-state-component as state container and Nunjucks to assist HTML templating."
+    },
+    {
+      "title": "About the developer",
+      "content": "A-Frame developer team"
+    },
+    {
+      "title": " More information links",
+      "content": "Online play: https://supermedium.com/supersaber/play.html <br> Github code: https://github.com/sidequestlegend/supersaber  <br> Read more: https://bsaber.com/moonrider/"
+    }
+  ],
+  "reviews": [
+    "Great Game, easy to play, hard to master. Fun from the start. You can notice it takes some inspiration in the gameplay from Exanima. <br> Pros:<br>-Easy to understand Interface <br>-Simple enough controls<br> -Traps spice up the maps<br> -Character customization which impact its stats<br> Cons: <br> -Its hard to figure out the controls, as there is no tutorial implemented, only a small briefing.<br> -Its hard to build momentum to do heavier attacks. <br> -Some minor bugs to be expected at this stage of development. <br>",
+    "review2"
+  ],
+  "releaseDate": "2021-06-01",
+  "platform": "Browser, WebGL",
+  "downloadSize": "100 MB",
+  "numberOfPlayer": "1",
+  "playtime": "15-45 min",
+  "equipment": "iPuppet Device",
+  "loves": 500,
+  "likes": 1000,
+  "dislikes": 40,
+  "downloads": 5000,
+  "genre": [
+    {
+      "_id": {
+        "$oid": "605cb60c0838d544acf2e12e"
+      },
+      "title": "Boxing",
+      "type": "Fitness"
+    },
+    {
+      "_id": {
+        "$oid": "605cb60c0838d544acf2e138"
+      },
+      "title": "Survive",
+      "type": "Game"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "605cbc5b0838d544acf2e14b"
+  },
+  "title": "Park Walk",
+  "details": "Walk in nature park",
+  "source": {
+    "cmd": "games/03_32/g22/script",
+    "link": "games/03_32/g22/public/index.html"
+  },
+  "image": [
+    "images/03_21/21_01.png",
+    "images/03_21/21_02.png"
+  ],
+  "videos": [
+    "videos/03_21/21_01.mp4"
+  ],
+  "controllers": [
+    {
+      "title": "Balance control mode",
+      "src": "images/03_21/hexgl_control_1.gif",
+      "type": "image",
+      "content": "Just sit back and enjoy the exercises. "
+    }
+  ],
+  "about": [
+    {
+      "title": "About this game",
+      "content": "Under construction"
+    },
+    {
+      "title": "About the developer",
+      "content": "iPuppet developer team"
+    }
+  ],
+  "reviews": [
+    "review1",
+    "review2"
+  ],
+  "releaseDate": "2021-03-01",
+  "platform": "Windows, PC",
+  "downloadSize": "50 MB",
+  "numberOfPlayer": "1",
+  "playtime": "15-30 min",
+  "equipment": "iPuppet Device",
+  "loves": 5,
+  "likes": 10,
+  "dislikes": 4,
+  "downloads": 20,
+  "genre": [
+    {
+      "_id": {
+        "$oid": "605cb60c0838d544acf2e130"
+      },
+      "title": "Slimming",
+      "type": "Fitness"
+    },
+    {
+      "_id": {
+        "$oid": "605cb60c0838d544acf2e13b"
+      },
+      "title": "Park",
+      "type": "Social"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "605cbc5b0838d544acf2e14c"
+  },
+  "title": "Bowling",
+  "details": "Bowling game ",
+  "source": {
+    "cmd": "games/03_32/g21/script",
+    "link": "games/03_32/g21/public/index.html"
+  },
+  "image": [
+    "images/03_21/21_01.png",
+    "images/03_21/21_02.png"
+  ],
+  "videos": [
+    "videos/03_21/21_01.mp4"
+  ],
+  "controllers": [
+    {
+      "title": "Balance control mode",
+      "src": "images/03_21/hexgl_control_1.gif",
+      "type": "image",
+      "content": "Just sit back and enjoy the exercises. "
+    }
+  ],
+  "about": [
+    {
+      "title": "About this game",
+      "content": "Under construction"
+    },
+    {
+      "title": "About the developer",
+      "content": "iPuppet developer team"
+    }
+  ],
+  "reviews": [
+    "review1",
+    "review2"
+  ],
+  "releaseDate": "2021-03-01",
+  "platform": "Windows, PC",
+  "downloadSize": "50 MB",
+  "numberOfPlayer": "1 - 4",
+  "playtime": "15-30 min",
+  "equipment": "iPuppet Device",
+  "loves": 5,
+  "likes": 10,
+  "dislikes": 4,
+  "downloads": 20,
+  "genre": [
+    {
+      "_id": {
+        "$oid": "605cb60c0838d544acf2e135"
+      },
+      "title": "Agile",
+      "type": "Game"
+    },
+    {
+      "_id": {
+        "$oid": "605cb60c0838d544acf2e140"
+      },
+      "title": "Private",
+      "type": "Social"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "605cbc5b0838d544acf2e14d"
+  },
+  "title": "Park Walk",
+  "details": "Walk in nature park",
+  "source": {
+    "cmd": "games/03_32/g20/script",
+    "link": "games/03_32/g20/public/index.html"
+  },
+  "image": [
+    "images/03_21/20_01.png",
+    "images/03_21/20_02.png"
+  ],
+  "videos": [
+    "videos/03_21/20_01.mp4"
+  ],
+  "controllers": [
+    {
+      "title": "Balance control mode",
+      "src": "images/03_21/hexgl_control_1.gif",
+      "type": "image",
+      "content": "Just sit back and enjoy the exercises. "
+    }
+  ],
+  "about": [
+    {
+      "title": "About this game",
+      "content": "Under construction"
+    },
+    {
+      "title": "About the developer",
+      "content": "iPuppet developer team"
+    }
+  ],
+  "reviews": [
+    "review1",
+    "review2"
+  ],
+  "releaseDate": "2021-03-01",
+  "platform": "Windows, PC",
+  "downloadSize": "50 MB",
+  "numberOfPlayer": "1",
+  "playtime": "15-30 min",
+  "equipment": "iPuppet Device",
+  "loves": 5,
+  "likes": 10,
+  "dislikes": 4,
+  "downloads": 20,
+  "genre": [
+    {
+      "_id": {
+        "$oid": "605cb60c0838d544acf2e130"
+      },
+      "title": "Slimming",
+      "type": "Fitness"
+    },
+    {
+      "_id": {
+        "$oid": "605cb60c0838d544acf2e13b"
+      },
+      "title": "Park",
+      "type": "Social"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "605cbc5b0838d544acf2e14e"
+  },
+  "title": "Beach Fitness",
+  "details": "Fitness exercies in beach island",
+  "source": {
+    "cmd": "games/03_32/g19/script",
+    "link": "games/03_32/g19/public/index.html"
+  },
+  "image": [
+    "images/03_21/19_01.png",
+    "images/03_21/19_02.png",
+    "images/03_21/19_03.png"
+  ],
+  "videos": [
+    "videos/03_21/19_01.mp4"
+  ],
+  "controllers": [
+    {
+      "title": "Balance control mode",
+      "src": "images/03_21/hexgl_control_1.gif",
+      "type": "image",
+      "content": "Just sit back and enjoy the exercises. "
+    }
+  ],
+  "about": [
+    {
+      "title": "About this game",
+      "content": "Under construction"
+    },
+    {
+      "title": "About the developer",
+      "content": "iPuppet developer team"
+    }
+  ],
+  "reviews": [
+    "review1",
+    "review2"
+  ],
+  "releaseDate": "2021-03-01",
+  "platform": "Windows, PC",
+  "downloadSize": "50 MB",
+  "numberOfPlayer": "1",
+  "playtime": "15-30 min",
+  "equipment": "iPuppet Device",
+  "loves": 5,
+  "likes": 10,
+  "dislikes": 4,
+  "downloads": 20,
+  "genre": [
+    {
+      "_id": {
+        "$oid": "605cb60c0838d544acf2e130"
+      },
+      "title": "Slimming",
+      "type": "Fitness"
+    },
+    {
+      "_id": {
+        "$oid": "605cb60c0838d544acf2e13c"
+      },
+      "title": "Beach",
+      "type": "Social"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "605cbc5b0838d544acf2e14f"
+  },
+  "title": "Car Drift",
+  "details": "Balance exercies with car race",
+  "source": {
+    "cmd": "games/03_32/g18/script",
+    "link": "games/03_32/g18/public/index.html"
+  },
+  "image": [
+    "images/03_21/18_01.png"
+  ],
+  "videos": [
+    "videos/03_21/18_01.mp4"
+  ],
+  "controllers": [
+    {
+      "title": "Balance control mode",
+      "src": "images/03_21/hexgl_control_1.gif",
+      "type": "image",
+      "content": "Just sit back and enjoy the exercises. "
+    }
+  ],
+  "about": [
+    {
+      "title": "About this game",
+      "content": "Under construction"
+    },
+    {
+      "title": "About the developer",
+      "content": "iPuppet developer team"
+    }
+  ],
+  "reviews": [
+    "review1",
+    "review2"
+  ],
+  "releaseDate": "2021-03-01",
+  "platform": "Windows, PC",
+  "downloadSize": "50 MB",
+  "numberOfPlayer": "1",
+  "playtime": "15-30 min",
+  "equipment": "iPuppet Device",
+  "loves": 5,
+  "likes": 10,
+  "dislikes": 4,
+  "downloads": 20,
+  "genre": [
+    {
+      "_id": {
+        "$oid": "605cb60c0838d544acf2e135"
+      },
+      "title": "Agile",
+      "type": "Game"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "605cbc5b0838d544acf2e150"
+  },
+  "title": "Gym Dance",
+  "details": "Fitness exercises with dance",
+  "source": {
+    "cmd": "games/03_32/g17/script",
+    "link": "games/03_32/g17/public/index.html"
+  },
+  "image": [
+    "images/03_21/17_01.png"
+  ],
+  "videos": [
+    "videos/03_21/17_01.mp4"
+  ],
+  "controllers": [
+    {
+      "title": "Balance control mode",
+      "src": "images/03_21/hexgl_control_1.gif",
+      "type": "image",
+      "content": "Just sit back and enjoy the exercises. "
+    }
+  ],
+  "about": [
+    {
+      "title": "About this game",
+      "content": "Under construction"
+    },
+    {
+      "title": "About the developer",
+      "content": "iPuppet developer team"
+    }
+  ],
+  "reviews": [
+    "review1",
+    "review2"
+  ],
+  "releaseDate": "2021-03-01",
+  "platform": "Windows, PC",
+  "downloadSize": "50 MB",
+  "numberOfPlayer": "1 - 4",
+  "playtime": "15-30 min",
+  "equipment": "iPuppet Device",
+  "loves": 5,
+  "likes": 10,
+  "dislikes": 4,
+  "downloads": 20,
+  "genre": [
+    {
+      "_id": {
+        "$oid": "605cb60c0838d544acf2e12f"
+      },
+      "title": "Samba",
+      "type": "Fitness"
+    },
+    {
+      "_id": {
+        "$oid": "605cb60c0838d544acf2e13f"
+      },
+      "title": "Zoo",
+      "type": "Social"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "605cbc5b0838d544acf2e151"
+  },
+  "title": "Gym Challenge",
+  "details": "Fitness exercises",
+  "source": {
+    "cmd": "games/03_32/g16/script",
+    "link": "games/03_32/g16/public/index.html"
+  },
+  "image": [
+    "images/03_21/16_01.png",
+    "images/03_21/16_02.png"
+  ],
+  "videos": [
+    "videos/03_21/16_01.mp4",
+    "videos/03_21/16_02.mp4"
+  ],
+  "controllers": [
+    {
+      "title": "Balance control mode",
+      "src": "images/03_21/hexgl_control_1.gif",
+      "type": "image",
+      "content": "Just sit back and enjoy the exercises. "
+    }
+  ],
+  "about": [
+    {
+      "title": "About this game",
+      "content": "Under construction"
+    },
+    {
+      "title": "About the developer",
+      "content": "iPuppet developer team"
+    }
+  ],
+  "reviews": [
+    "review1",
+    "review2"
+  ],
+  "releaseDate": "2021-03-01",
+  "platform": "Windows, PC",
+  "downloadSize": "50 MB",
+  "numberOfPlayer": "1",
+  "playtime": "15-30 min",
+  "equipment": "iPuppet Device",
+  "loves": 5,
+  "likes": 10,
+  "dislikes": 4,
+  "downloads": 20,
+  "genre": [
+    {
+      "_id": {
+        "$oid": "605cb60c0838d544acf2e131"
+      },
+      "title": "Pilates",
+      "type": "Fitness"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "605cbc5b0838d544acf2e153"
+  },
+  "title": "Flight Challange",
+  "details": "Balance exerices : control the plane your center of pressure",
+  "source": {
+    "cmd": "games/03_32/g15/script",
+    "link": "games/03_32/g15/public/index.html"
+  },
+  "image": [
+    "images/03_21/15_01.png"
+  ],
+  "videos": [
+    "videos/03_21/15_01.mp4"
+  ],
+  "controllers": [
+    {
+      "title": "Balance control mode",
+      "src": "images/03_21/hexgl_control_1.gif",
+      "type": "image",
+      "content": "Just sit back and enjoy the ride. "
+    }
+  ],
+  "about": [
+    {
+      "title": "About this game",
+      "content": "Under construction"
+    },
+    {
+      "title": "About the developer",
+      "content": "iPuppet developer team"
+    }
+  ],
+  "reviews": [
+    "review1",
+    "review2"
+  ],
+  "releaseDate": "2021-03-01",
+  "platform": "Windows, PC",
+  "downloadSize": "50 MB",
+  "numberOfPlayer": "1",
+  "playtime": "15-30 min",
+  "equipment": "iPuppet Device",
+  "loves": 5,
+  "likes": 10,
+  "dislikes": 4,
+  "downloads": 20,
+  "genre": [
+    {
+      "_id": {
+        "$oid": "605cb60c0838d544acf2e132"
+      },
+      "title": "Balance",
+      "type": "Fitness"
+    },
+    {
+      "_id": {
+        "$oid": "605cb60c0838d544acf2e135"
+      },
+      "title": "Agile",
+      "type": "Game"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "605cbc5b0838d544acf2e154"
+  },
+  "title": "Hockey Keeper",
+  "details": "Lower body exercies, stop the hockey puck with feets",
+  "source": {
+    "cmd": "games/03_32/g13/script",
+    "link": "games/03_32/g13/public/index.html"
+  },
+  "image": [
+    "images/03_21/13_01.png",
+    "images/03_21/13_02.png"
+  ],
+  "videos": [
+    "videos/03_21/13_01.mp4"
+  ],
+  "controllers": [
+    {
+      "title": "Balance control mode",
+      "src": "images/03_21/hexgl_control_1.gif",
+      "type": "image",
+      "content": "Just sit back and enjoy the game. "
+    }
+  ],
+  "about": [
+    {
+      "title": "About this game",
+      "content": "Under construction"
+    },
+    {
+      "title": "About the developer",
+      "content": "iPuppet developer team"
+    }
+  ],
+  "reviews": [
+    "review1",
+    "review2"
+  ],
+  "releaseDate": "2021-03-01",
+  "platform": "Windows, PC",
+  "downloadSize": "50 MB",
+  "numberOfPlayer": "1",
+  "playtime": "15-30 min",
+  "equipment": "iPuppet Device",
+  "loves": 5,
+  "likes": 10,
+  "dislikes": 4,
+  "downloads": 20,
+  "genre": [
+    {
+      "_id": {
+        "$oid": "605cb60c0838d544acf2e134"
+      },
+      "title": "Sport",
+      "type": "Fitness"
+    }
+  ]
+}]

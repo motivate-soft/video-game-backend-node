@@ -11,10 +11,10 @@ const Game = mongoose.model('Games', new mongoose.Schema({
     maxlength: 255
   },
   image: {
-    type:String
+    type:[String]
   },
   genre: { 
-    type: genreSchema,  
+    type: [genreSchema],  
     required: true
   },
   description: {
@@ -65,7 +65,7 @@ const Game = mongoose.model('Games', new mongoose.Schema({
     type: Number
   },
   playtime: {
-    type: Number
+    type: String
   },
   loves: {
     type: Number
