@@ -52,7 +52,7 @@ const Game = mongoose.model('Games', new mongoose.Schema({
     // TODO: when add user model replace this part
   },
   source: {
-    type: String
+    type: Object
   },
   instrunction: {
     type: String
