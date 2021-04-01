@@ -5,8 +5,8 @@
   "title": "HexGL",
   "details": "HexGL is a high-speed Wipeout clone that serves as a great example of what HTML5, Javascript, and WebGL technologies offer independent developers.",
   "source": {
-    "cmd": "games/03_32/g01/script",
-    "link": "games/03_32/g01/public/index.html"
+    "type": "html",
+    "link": "games/hexgl/index.html"
   },
   "image": [
     "images/03_21/01_01.png",
@@ -81,8 +81,8 @@
   "title": "Moon Rider",
   "details": "Surf the musical road among the moon, stars, and northern lights. <br> Moon Rider is a free and open source VR music visualization and rhythm game that is playable completely from the web.",
   "source": {
-    "cmd": "games/03_32/g02/script",
-    "link": "games/03_32/g02/public/index.html"
+    "type": "html",
+    "link": "games/moonrider/index.html"
   },
   "image": [
     "images/03_21/02_01.jpeg",
@@ -159,8 +159,8 @@
   "title": "Goal Keeper",
   "details": "Upper body exercies, stop ball with your hands",
   "source": {
-    "cmd": "games/03_32/g12/script",
-    "link": "games/03_32/g12/public/index.html"
+    "type": "html",
+    "link": "games/samplegame/index.html"
   },
   "image": [
     "images/03_21/12_01.png",
@@ -217,8 +217,8 @@
   "title": "Horse Ride",
   "details": "Hupper body exercies, ride horse with ipuppet elastics",
   "source": {
-    "cmd": "games/03_32/g14/script",
-    "link": "games/03_32/g14/public/index.html"
+    "type": "html",
+    "link": "games/samplegame/index.html"
   },
   "image": [
     "images/03_21/14_01.png",
@@ -283,8 +283,8 @@
   "title": "Box Catch",
   "details": "Upper body exercies",
   "source": {
-    "cmd": "games/03_32/g11/script",
-    "link": "games/03_32/g11/public/index.html"
+    "type": "html",
+    "link": "games/samplegame/index.html"
   },
   "image": [
     "images/03_21/11_01.png",
@@ -348,8 +348,8 @@
   "title": "Elastic Challenge",
   "details": "Elastic exercies, pull the elastic to reach the target",
   "source": {
-    "cmd": "games/03_32/g10/script",
-    "link": "games/03_32/g10/public/index.html"
+    "type": "html",
+    "link": "games/samplegame/index.html"
   },
   "image": [
     "images/03_21/10_01.png"
@@ -405,8 +405,8 @@
   "title": "Zoo Walk",
   "details": "Walk in forest with animals",
   "source": {
-    "cmd": "games/03_32/g05/script",
-    "link": "games/03_32/g05/public/index.html"
+    "type": "html",
+    "link": "games/samplegame/index.html"
   },
   "image": [
     "images/03_21/05_01.png",
@@ -470,8 +470,8 @@
   "title": "Box Obstacle",
   "details": "Balance exercices standing on left and right leg",
   "source": {
-    "cmd": "games/03_32/g04/script",
-    "link": "games/03_32/g04/public/index.html"
+    "type": "html",
+    "link": "games/samplegame/index.html"
   },
   "image": [
     "images/03_21/04_01.png"
@@ -527,8 +527,8 @@
   "title": "Super Saber",
   "details": "A free and open source clone of Beat Saber that lets you play over 6000 community songs from Beat Saver songs without having to install any mods.",
   "source": {
-    "cmd": "games/03_32/g03/script",
-    "link": "games/03_32/g03/public/index.html"
+    "type": "html",
+    "link": "games/samplegame/index.html"
   },
   "image": [
     "images/03_21/03_01.png",
@@ -604,8 +604,8 @@
   "title": "Park Walk",
   "details": "Walk in nature park",
   "source": {
-    "cmd": "games/03_32/g22/script",
-    "link": "games/03_32/g22/public/index.html"
+    "type": "html",
+    "link": "games/samplegame/index.html"
   },
   "image": [
     "images/03_21/21_01.png",
@@ -669,8 +669,8 @@
   "title": "Bowling",
   "details": "Bowling game ",
   "source": {
-    "cmd": "games/03_32/g21/script",
-    "link": "games/03_32/g21/public/index.html"
+    "type": "html",
+    "link": "games/samplegame/index.html"
   },
   "image": [
     "images/03_21/21_01.png",
@@ -734,8 +734,8 @@
   "title": "Park Walk",
   "details": "Walk in nature park",
   "source": {
-    "cmd": "games/03_32/g20/script",
-    "link": "games/03_32/g20/public/index.html"
+    "type": "html",
+    "link": "games/samplegame/index.html"
   },
   "image": [
     "images/03_21/20_01.png",
@@ -799,8 +799,8 @@
   "title": "Beach Fitness",
   "details": "Fitness exercies in beach island",
   "source": {
-    "cmd": "games/03_32/g19/script",
-    "link": "games/03_32/g19/public/index.html"
+    "type": "html",
+    "link": "games/samplegame/index.html"
   },
   "image": [
     "images/03_21/19_01.png",
@@ -865,8 +865,8 @@
   "title": "Car Drift",
   "details": "Balance exercies with car race",
   "source": {
-    "cmd": "games/03_32/g18/script",
-    "link": "games/03_32/g18/public/index.html"
+    "type": "html",
+    "link": "games/samplegame/index.html"
   },
   "image": [
     "images/03_21/18_01.png"
@@ -922,8 +922,8 @@
   "title": "Gym Dance",
   "details": "Fitness exercises with dance",
   "source": {
-    "cmd": "games/03_32/g17/script",
-    "link": "games/03_32/g17/public/index.html"
+    "type": "html",
+    "link": "games/samplegame/index.html"
   },
   "image": [
     "images/03_21/17_01.png"
@@ -986,8 +986,8 @@
   "title": "Gym Challenge",
   "details": "Fitness exercises",
   "source": {
-    "cmd": "games/03_32/g16/script",
-    "link": "games/03_32/g16/public/index.html"
+    "type": "html",
+    "link": "games/samplegame/index.html"
   },
   "image": [
     "images/03_21/16_01.png",
@@ -1045,8 +1045,8 @@
   "title": "Flight Challange",
   "details": "Balance exerices : control the plane your center of pressure",
   "source": {
-    "cmd": "games/03_32/g15/script",
-    "link": "games/03_32/g15/public/index.html"
+    "type": "unity",
+    "link": "games/flightChallange/flightChallange.zip"
   },
   "image": [
     "images/03_21/15_01.png"
@@ -1109,8 +1109,8 @@
   "title": "Hockey Keeper",
   "details": "Lower body exercies, stop the hockey puck with feets",
   "source": {
-    "cmd": "games/03_32/g13/script",
-    "link": "games/03_32/g13/public/index.html"
+    "type": "html",
+    "link": "games/samplegame/index.html"
   },
   "image": [
     "images/03_21/13_01.png",
